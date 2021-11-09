@@ -1,0 +1,86 @@
+[
+    {
+        "Title": "Металлург Мг",
+        "Position": "1",
+        "Games": "27",
+        "Win": "18",
+        "Points": "46"
+    },
+    {
+        "Title": "Трактор",
+        "Position": "2",
+        "Games": "29",
+        "Win": "14",
+        "Points": "44"
+    },
+    {
+        "Title": "Салават Юлаев",
+        "Position": "3",
+        "Games": "28",
+        "Win": "15",
+        "Points": "38"
+    },
+    {
+        "Title": "Ак Барс",
+        "Position": "4",
+        "Games": "28",
+        "Win": "11",
+        "Points": "36"
+    },
+    {
+        "Title": "Авангард",
+        "Position": "5",
+        "Games": "26",
+        "Win": "12",
+        "Points": "29"
+    },
+    {
+        "Title": "Автомобилист",
+        "Position": "6",
+        "Games": "28",
+        "Win": "9",
+        "Points": "29"
+    },
+    {
+        "Title": "Сибирь",
+        "Position": "7",
+        "Games": "27",
+        "Win": "11",
+        "Points": "27"
+    },
+    {
+        "Title": "Нефтехимик",
+        "Position": "8",
+        "Games": "26",
+        "Win": "8",
+        "Points": "25"
+    },
+    {
+        "Title": "Амур",
+        "Position": "9",
+        "Games": "28",
+        "Win": "5",
+        "Points": "25"
+    },
+    {
+        "Title": "Барыс",
+        "Position": "10",
+        "Games": "27",
+        "Win": "6",
+        "Points": "24"
+    },
+    {
+        "Title": "Адмирал",
+        "Position": "11",
+        "Games": "27",
+        "Win": "5",
+        "Points": "17"
+    },
+    {
+        "Title": "Куньлунь РС",
+        "Position": "12",
+        "Games": "26",
+        "Win": "6",
+        "Points": "16"
+    }
+]

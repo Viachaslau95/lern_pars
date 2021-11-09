@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Sanae Abdi",
+        "company": "SPD",
+        "social_links": [
+            "https://sanae-abdi.spd.de/",
+            "https://twitter.com/abdisanae?lang=de",
+            "https://www.instagram.com/sanae_ccaa/",
+            "https://www.facebook.com/sanaeabdispd"
+        ]
+    },
+    {
+        "name": "Valentin Abel",
+        "company": "FDP",
+        "social_links": [
+            "https://www.valentin-abel.de",
+            "https://twitter.com/Valentin_C_Abel",
+            "https://www.instagram.com/valentin_christian_abel/",
+            "https://www.facebook.com/valentinabel.fdp",
+            "https://linkedin.com/in/valentin-christian-abel-8a4355114"
+        ]
+    },
+    {
+        "name": "Knut Abraham",
+        "company": "CDU/CSU",
+        "social_links": [
+            "https://Knut-Abraham.de",
+            "https://facebook.com/knut.abraham"
+        ]
+    },
+    {
+        "name": "Katja Adler",
+        "company": "FDP",
+        "social_links": [
+            "http://www.katja-adler.eu",
+            "https://twitter.com/katjadler",
+            "https://www.instagram.com/katj_ad",
+            "https://facebook.com/katjadler",
+            "https://www.linkedin.com/in/katja-adler-616308ba/"
+        ]
+    },
+    {
+        "name": "Stephanie Aeffner",
+        "company": "Alliance 90/The Greens",
+        "social_links": [
+            "https://aeffnerstephanie.de",
+            "https://www.instagram.com/stephanie_aeffner/"
+        ]
+    },
+    {
+        "name": "Adis Ahmetovic",
+        "company": "SPD",
+        "social_links": [
+            "http://www.adis-ahmetovic.de",
+            "http://www.facebook.de/AdisAhmetovic.SPD",
+            "http://www.instagram.de/adis.a93"
+        ]
+    },
+    {
+        "name": "G\u00f6kay Akbulut",
+        "company": "The Left Party",
+        "social_links": [
+            "https://goekay-akbulut.de/",
+            "https://www.facebook.com/gokay.akbulut.146",
+            "https://twitter.com/akbulutgokay?lang=de",
+            "https://de.linkedin.com/in/g%C3%B6kay-akbulut-87b679200",
+            "https://www.instagram.com/gokayakbulut_mdb_linke/?hl=de"
+        ]
+    },
+    {
+        "name": "Ali Al-Dailami",
+        "company": "The Left Party",
+        "social_links": []
+    }
+]

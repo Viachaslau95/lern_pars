@@ -1,0 +1,86 @@
+[
+    {
+        "Title": "Йокерит",
+        "Position": "1",
+        "Games": "27",
+        "Win": "13",
+        "Points": "40"
+    },
+    {
+        "Title": "СКА",
+        "Position": "2",
+        "Games": "27",
+        "Win": "13",
+        "Points": "39"
+    },
+    {
+        "Title": "ЦСКА",
+        "Position": "3",
+        "Games": "27",
+        "Win": "11",
+        "Points": "35"
+    },
+    {
+        "Title": "Динамо М",
+        "Position": "4",
+        "Games": "27",
+        "Win": "16",
+        "Points": "34"
+    },
+    {
+        "Title": "Северсталь",
+        "Position": "5",
+        "Games": "26",
+        "Win": "11",
+        "Points": "34"
+    },
+    {
+        "Title": "Динамо Мн",
+        "Position": "6",
+        "Games": "26",
+        "Win": "11",
+        "Points": "32"
+    },
+    {
+        "Title": "Локомотив",
+        "Position": "7",
+        "Games": "27",
+        "Win": "12",
+        "Points": "31"
+    },
+    {
+        "Title": "Спартак",
+        "Position": "8",
+        "Games": "28",
+        "Win": "9",
+        "Points": "30"
+    },
+    {
+        "Title": "Торпедо",
+        "Position": "9",
+        "Games": "27",
+        "Win": "12",
+        "Points": "29"
+    },
+    {
+        "Title": "Динамо Р",
+        "Position": "10",
+        "Games": "26",
+        "Win": "8",
+        "Points": "23"
+    },
+    {
+        "Title": "ХК Сочи",
+        "Position": "11",
+        "Games": "28",
+        "Win": "6",
+        "Points": "22"
+    },
+    {
+        "Title": "Витязь",
+        "Position": "12",
+        "Games": "27",
+        "Win": "6",
+        "Points": "22"
+    }
+]
