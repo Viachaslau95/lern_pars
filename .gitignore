@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 selenium_pars/chromedriver/auth_data.py
+selenium_pars/chromedriver/chromedriver
+selenium_pars/chromedriver/slavik.deil@mail.ru_cookies
 .idea
